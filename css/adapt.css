@@ -44,7 +44,7 @@
 	.line-nav {display: none;}
 	.news img {width: 50%;}
 	img.slide-play {width: 60px;}
-	.main {height: 75vh;}
+	.main {height: 50vh;}
 }
 
 @media (max-width: 550px) {
