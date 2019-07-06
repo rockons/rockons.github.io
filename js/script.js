@@ -20,4 +20,5 @@ function showSlides(n) {
 
 $(".fa-bars").on("click", function () {
   $(".els").toggleClass("els-active");
+  $(".fa-bars").toggleClass("fa-times");
 })
